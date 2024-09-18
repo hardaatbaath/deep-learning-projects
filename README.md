@@ -1,2 +1,2 @@
-# Deep-Learning-Coursera
- This includes all of my minor projects and code related to deep learning, primarily associated with computer vision. Each file can be separately run on Google Colab for testing. 
+# Deep Learning Coursera
+This repository contains various minor projects and code related to deep learning. These scripts were written as lab for various courses on Coursera. Each file can be run separately on Google Colab for testing.
